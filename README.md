@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá, Eu sou o <a href=https://www.linkedin.com/in/kevin-devezas-93bbb5245/><i>Kevin Devezas</i></a></h1>
+  <h1 align="center">Olá, meu nome é <a href=https://www.linkedin.com/in/kevin-devezas-93bbb5245/><i>Kevin Devezas</i></a></h1>
   <p align="center">Estudante de Análise e desenvolvimento de sistemas e apaixonado pela incrível arte de poder programar de qualquer lugar do mundo 💻 
    <a align="rigth"
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
