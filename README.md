@@ -18,6 +18,7 @@
 
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="WORDPRESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +30,8 @@
   <img align="center" alt="Linkedin" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
    <img align="center" alt="Opera" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
   <img align="center" alt="Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg">
+   <img align="center" alt="Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ 
 </div><br>
 
 
